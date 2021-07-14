@@ -7,12 +7,12 @@ MarkupSafe==1.1.1
 Werkzeug==1.0.1
 
 tensorflow
-keras==2.4.3
-numpy==1.19.3
-pillow==7.0.0
+keras
+numpy
+pillow
 scipy
-h5py==2.10.0
-matplotlib==3.3.2
+h5py
+matplotlib
 opencv-python
-keras-resnet==0.2.0
+keras-resnet
 imageai
